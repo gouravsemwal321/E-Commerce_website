@@ -7,7 +7,7 @@
 <h3 align="center"><b>E-commerce Website</b></h3>
 
 <p align="center">
-    <a href="https://sahadcmd.github.io/Ecommerce-Website/" target="_blank">Visit Website</a>
+    <a href="[https://sahadcmd.github.io/Ecommerce-Website/](https://gouravsemwal321.github.io/E-Commerce_website/)" target="_blank">Visit Website</a>
 </p>
 
 ## About this project 🚀
@@ -51,5 +51,4 @@ This is a responsive E-commerce website using HTML, CSS, and JavaScript. The web
 
 <br>
 <hr>
-<h5 align="center">Connect with me!</h5>
 
